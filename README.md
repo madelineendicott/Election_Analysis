@@ -28,5 +28,9 @@ The analysis of the election concludes that:
   - Diana DeGette who received 73.8% of the vote and 272,892 votes.
   
   ## Challenge Overview
+  The central purpose of calculating the votes to determine the winner of the election was met. The numbers we needed for this project was on a lengthy CSV file. The first step was to organize this data.
+  
+  <img width="952" alt="Screenshot_20230126_114701" src="https://user-images.githubusercontent.com/113315239/214935689-df82eda1-0a6c-4b2a-859d-311d061fe275.png">
+
   
   ## Challenge Summary
